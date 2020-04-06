@@ -1,0 +1,11 @@
+C:\Nalog\plata\obj\Debug\netcoreapp3.1\Nalog.csprojAssemblyReference.cache
+C:\Nalog\plata\obj\Debug\netcoreapp3.1\Nalog.AssemblyInfoInputs.cache
+C:\Nalog\plata\obj\Debug\netcoreapp3.1\Nalog.AssemblyInfo.cs
+C:\Nalog\plata\bin\Debug\netcoreapp3.1\Nalog.exe
+C:\Nalog\plata\bin\Debug\netcoreapp3.1\Nalog.deps.json
+C:\Nalog\plata\bin\Debug\netcoreapp3.1\Nalog.runtimeconfig.json
+C:\Nalog\plata\bin\Debug\netcoreapp3.1\Nalog.runtimeconfig.dev.json
+C:\Nalog\plata\bin\Debug\netcoreapp3.1\Nalog.dll
+C:\Nalog\plata\bin\Debug\netcoreapp3.1\Nalog.pdb
+C:\Nalog\plata\obj\Debug\netcoreapp3.1\Nalog.dll
+C:\Nalog\plata\obj\Debug\netcoreapp3.1\Nalog.pdb
